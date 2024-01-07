@@ -4,9 +4,9 @@
 
 fotos del ejercicio
 
-![Nombre Descriptivo de la Imagen](C:\Users\pc\desktop\git\LopezVidalD02\lib\videoReadme\Captura de pantalla (790).png)
-![Nombre Descriptivo de la Imagen](C:\Users\pc\desktop\git\LopezVidalD02\lib\videoReadme\Captura de pantalla (793).png)
-![Nombre Descriptivo de la Imagen](C:\Users\pc\desktop\git\LopezVidalD02\lib\videoReadme\Captura de pantalla (791).png)
+![Ejemplo de imagen](lib\videoReadme\foto1.png)
+![Ejemplo de imagen](lib\videoReadme\foto2.png)
+![Ejemplo de imagen](lib\videoReadme\foto3.png)
 
 
 ## Estructura del Código
