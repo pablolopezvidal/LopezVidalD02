@@ -32,8 +32,3 @@ El widget principal se llama `MyWidget4`, que es un StatefulWidget. Aquí se ini
 
 - **Botones:** Los botones son redondos, con un color de fondo y borde específicos. Los botones de incremento y decremento ejecutan las funciones asociadas (`sumar` y `restar`), mientras que el botón de recarga ejecuta la función `empezar`.
 
----
-
-**NOTA:** El código incluye una sección comentada, que parece ser una versión anterior o alternativa del widget `MyWidget4`. Puedes ignorar o eliminar esa parte, ya que no está activada.
-
-Espero que esta explicación te sea útil. Si tienes alguna pregunta adicional, no dudes en preguntar.
