@@ -1,13 +1,10 @@
 # Contador Flutter
 
-# Contador Flutter
-
 fotos del ejercicio
 
 ![Ejemplo de imagen](lib\videoReadme\foto1.png)
 ![Ejemplo de imagen](lib\videoReadme\foto2.png)
 ![Ejemplo de imagen](lib\videoReadme\foto3.png)
-
 
 ## Estructura del Código
 
