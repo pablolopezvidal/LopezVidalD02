@@ -2,7 +2,7 @@
 
 fotos del ejercicio
 
-![Ejemplo de imagen](videoReadme\foto1.png)
+![Ejemplo de imagen](./videoReadme/foto1.png)
 ![Ejemplo de imagen](videoReadme\foto2.png)
 ![Ejemplo de imagen](videoReadme\foto3.png)
 
